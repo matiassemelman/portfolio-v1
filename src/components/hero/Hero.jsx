@@ -1,12 +1,9 @@
 export const Hero = () => {
   return (
     <div>
-      <div>
-        <img
-          src="https://i.imgur.com/N7nem8n.png"
-          alt="Avatar of myself created by Midjourney bot"
-          className=""
-        />
+      <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
+        <p className="text-green ">BUILDING THE FUTURE</p>
+        <h1></h1>
       </div>
     </div>
   );
